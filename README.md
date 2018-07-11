@@ -1,6 +1,6 @@
 # GeoFirestore — Realtime location queries with Firestore
 
-GeoFirestore is set of open-source libraries for IOS and Android applications which allow you
+GeoFirestore is set of open-source libraries for iOS and Android applications which allow you
 to store and query a set of documents based on their geographic location. At its heart, GeoFirestore
 simply stores locations with string keys. Its main benefit, however, is the possibility of
 querying documents within a given geographic area - all in realtime.
@@ -11,7 +11,7 @@ GeoFirestore uses the Firestore database for data storage, allowing query result
 
 The GeoFirestore library is available in two different languages:
 
-* [GeoFirestore for IOS](https://github.com/imperiumlabs/GeoFirestore-IOS)
+* [GeoFirestore for iOS](https://github.com/imperiumlabs/GeoFirestore-iOS)
 * [GeoFirestore for Android](https://github.com/imperiumlabs/GeoFirestore-Android)
 
 All of the clients work on the same underlying data structure and have similar APIs, making
