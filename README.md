@@ -1,3 +1,5 @@
+![Imgur](https://i.imgur.com/FwNH7tU.jpg)
+
 # GeoFirestore — Realtime location queries with Firestore
 
 GeoFirestore is set of open-source libraries for iOS and Android applications which allow you
